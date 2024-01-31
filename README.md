@@ -1,1 +1,1 @@
-# RR-coffee-case-study
+# specialty-coffee-case-study
